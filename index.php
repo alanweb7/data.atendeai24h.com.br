@@ -5,7 +5,7 @@ if( ! ini_get('date.timezone') )
 }
 /**
  * CodeIgniter
- * in production 3
+ *
  * An open source application development framework for PHP
  *
  * This content is released under the MIT License (MIT)
