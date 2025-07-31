@@ -1,0 +1,11 @@
+# Arquivos e pastas que não precisam ser versionadas
+node_modules/
+vendor/
+uploads/
+storage/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.env
