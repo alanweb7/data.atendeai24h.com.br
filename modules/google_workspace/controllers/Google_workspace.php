@@ -1,5 +1,6 @@
 <?php
-
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 defined('BASEPATH') or exit('No direct script access allowed');
 
 // Load the Google API PHP Client Library.
