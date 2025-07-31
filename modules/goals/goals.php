@@ -4,7 +4,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 Module Name: Goals
-Description: Default module for defining goals
+Description: Default module for defining goals 2
 Version: 2.3.0
 Requires at least: 2.3.*
 */
