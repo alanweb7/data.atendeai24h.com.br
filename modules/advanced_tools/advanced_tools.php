@@ -26,7 +26,6 @@ function advanced_tools_init_menu()
         'slug'     => 'adv_tools_import_contacs',
         'name'     => _l('Importar Contatos'),
         'icon'     => 'fa-brands fa-app-store',
-        'href'     => admin_url('advanced_tools/v1/advanced_tools/view'),
         'position' => 31,
     ]);
     get_instance()->app_menu->add_sidebar_children_item('adv_tools_import_contacs', [
