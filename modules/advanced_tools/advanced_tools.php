@@ -13,7 +13,7 @@ Author URI: www.alan.tec.br
 
 define('ADVANCED_TOOLS_MODULE_NAME', 'advanced_tools');
 
-hooks()->add_action('admin_init', 'advanced_tools_init_menu');
+// hooks()->add_action('admin_init', 'advanced_tools_init_menu');
 
 function advanced_tools_init_menu()
 {
