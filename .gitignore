@@ -3,6 +3,10 @@ node_modules/
 vendor/
 uploads/
 storage/
+resources/
+application/
+system/
+temp/
 *.log
 *.tmp
 *.bak
