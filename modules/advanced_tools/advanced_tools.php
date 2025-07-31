@@ -1,5 +1,4 @@
 <?php
-
 defined('BASEPATH') or exit('No direct script access allowed');
  
 /*
@@ -42,7 +41,7 @@ function advanced_tools_init_menu()
         ]);
 }
 
-hooks()->add_action('admin_init', 'advanced_tools_permissions');
+// hooks()->add_action('admin_init', 'advanced_tools_permissions');
 
 function advanced_tools_permissions()
 {
