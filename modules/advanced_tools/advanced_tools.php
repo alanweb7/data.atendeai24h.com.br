@@ -31,7 +31,7 @@ function advanced_tools_init_menu()
     get_instance()->app_menu->add_sidebar_children_item('adv_tools_import_contacs', [
         'slug'     => 'advanced_tools_import_list',
         'name'     => _l('Importar do Celular'),
-        'href'     => admin_url('settings?group=main_advanced_tools'),
+        'href'     => admin_url(''),
         'position' => 1,
     ]);
 
